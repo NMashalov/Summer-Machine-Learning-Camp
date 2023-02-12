@@ -108,18 +108,30 @@ MPV:
     - tasks and mainly free)
     - comptetion
 - transport costs:
-    - bus: 
+    - bus: 1e5
     - parent allocation: free
 - estate rent costs:
-    - rooms:  
-    - food:
-    - conference hall and seminars: 
-- laptops rent
+    - rooms:  1e6
+    - food: 1e5
+    - conference hall and seminars: 1e6
+- laptops rent: 1e5
 - merch costs ? it-colab
-  - t-shirts
-  - rucksack
+  - t-shirts: 1e4
+  - rucksack: 1e4
 - recruitment costs:
-    - volunters: room & food costs & merch & r
+    - volunters: room & food costs & merch : 1e5
+S
+Total: 2.5e6 rub
+
+## Probable time realization
+
+Event start time: 15 october (autumn vacation)
+
+- planning: 1 month
+- visit-site development: 2 weeks
+- finding volunters and students: 2 month (summer vacation start)
+- finding hotel and organization: 1 month
+
 
 
 
