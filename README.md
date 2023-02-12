@@ -66,7 +66,6 @@ The main goal of activty is to involve audience in AI community. We will follow 
 
 - No alchohol :wine_glass: and smoking :smoking:
 - Weather-appropriate clothes :tophat: :closed_umbrella: :dress:
--
 
 
 ## Plan
